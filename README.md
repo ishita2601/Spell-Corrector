@@ -1,4 +1,3 @@
-# Spell-Corrector
 # Spell Corrector using ML
 
 This project corrects misspelled words using a combination of TF-IDF similarity, edit distance, and phonetic matching.
